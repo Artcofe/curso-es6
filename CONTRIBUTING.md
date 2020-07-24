@@ -57,4 +57,4 @@
 
 ## Add yourself as a contributor
 
-기여자 목록에 자신을 
+기여자 목록에 자신을 추가하려면 [All Contributors 봇 설명서](https://allcontributors.org/docs/en/bot/usage)를 참고하세요 :)
