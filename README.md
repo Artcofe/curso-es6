@@ -9,4 +9,5 @@
   <a aria-label="react analytics provider" href="https://www.npmjs.com/package/@every-analytics/react-analytics-provider">
     <img alt="" src="https://img.shields.io/badge/React%20Analytics%20Provider-skyblue.svg?style=for-the-badge&label=library&labelColor=000000&logoWidth=20">
   </a>
-  <a aria-label="Li
+  <a aria-label="License" href="https://github.com/EveryAnalytics/web-analytics-handbook/blob/main/LICENSE">
+    <img alt="" src="https://img.shields.io/github/license/EveryAnalytics/web-analytics-handbook?style=fo
