@@ -10,4 +10,7 @@
     <img alt="" src="https://img.shields.io/badge/React%20Analytics%20Provider-skyblue.svg?style=for-the-badge&label=library&labelColor=000000&logoWidth=20">
   </a>
   <a aria-label="License" href="https://github.com/EveryAnalytics/web-analytics-handbook/blob/main/LICENSE">
-    <img alt="" src="https://img.shields.io/github/license/EveryAnalytics/web-analytics-handbook?style=fo
+    <img alt="" src="https://img.shields.io/github/license/EveryAnalytics/web-analytics-handbook?style=for-the-badge&labelColor=000000">
+  </a>
+  <a aria-label="GitHub Stars" href="https://github.com/EveryAnalytics/web-analytics-handbook">
+    <img alt="" src="https://img.shields.io/github/stars/Eve
