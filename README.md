@@ -43,4 +43,8 @@
 
 - **🙋🏻 용어사전** : 사용자 데이터 분석에 대한 용어를 한데 모아놓은 용어사전입니다.
 
-## 3. Cont
+## 3. Contributors
+
+This project exists thanks to all the people who contribute. [[Contributing](https://github.com/EveryAnalytics/react-analytics-provider/blob/main/CONTRIBUTING.md)]
+
+<!--
