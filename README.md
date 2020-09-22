@@ -52,4 +52,4 @@ This project exists thanks to all the people who contribute. [[Contributing](htt
 <!-- markdownlint-disable -->
 <table>
   <tr>
-    <td align="cent
+    <td align="center"><a href="http://hiphapis.net"><img src="https://avatars.githubusercontent.com/u/18629?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Johan Kim</b></sub></a><br /><a href
