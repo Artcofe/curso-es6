@@ -52,4 +52,4 @@ This project exists thanks to all the people who contribute. [[Contributing](htt
 <!-- markdownlint-disable -->
 <table>
   <tr>
-    <td align="center"><a href="http://hiphapis.net"><img src="https://avatars.githubusercontent.com/u/18629?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Johan Kim</b></sub></a><br /><a href
+    <td align="center"><a href="http://hiphapis.net"><img src="https://avatars.githubusercontent.com/u/18629?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Johan Kim</b></sub></a><br /><a href="https://github.com/EveryAnalytics/web-analytics-handbook/pulls?q=is%3Apr+reviewed-by%3Ahiphapis" title="Reviewed Pull Requests">👀</a> <a href="https://github.com/EveryAnalytics/web-analytics-handbook/commits
