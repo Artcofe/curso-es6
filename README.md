@@ -71,4 +71,4 @@ This project exists thanks to all the people who contribute. [[Contributing](htt
 
 Licensed under the MIT License, Copyright (c) 2021 EveryAnalytics.
 
-See [LICENSE](https://github.com/EveryAnalytic
+See [LICENSE](https://github.com/EveryAnalytics/web-analytics-handbook/blob/main/LICENSE) for more information.
