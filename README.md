@@ -63,4 +63,12 @@ This project exists thanks to all the people who contribute. [[Contributing](htt
 </table>
 
 <!-- markdownlint-restore -->
-<
+<!-- prettier-ignore-end -->
+
+<!-- ALL-CONTRIBUTORS-LIST:END -->
+
+## 4. License
+
+Licensed under the MIT License, Copyright (c) 2021 EveryAnalytics.
+
+See [LICENSE](https://github.com/EveryAnalytic
