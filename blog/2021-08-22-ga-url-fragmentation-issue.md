@@ -12,4 +12,6 @@ tags: [google-analytics, url-fragmentation]
 
 ![url-fragmentation-issue](https://user-images.githubusercontent.com/35516239/130347429-d05e9139-866d-4acf-8c08-41142cf16ae4.png)
 
- `www.yoursite.com` 과 `www.yoursite.com?WEB_
+ `www.yoursite.com` 과 `www.yoursite.com?WEB_BNNR_ID=123` 두 URL 모두 같은 페이지를 의미하기  때문에 운영 중인 보기(View)에서는 두 페이지의 측정기준(Dimension)을 통합 하는 것이 유용하다. 여러 요청 URI 가 동일 사용자 경험을 나타낸다면 GA 에서 이들을 단일 페이지로 통합해야 한다.
+
+Query String
