@@ -18,4 +18,9 @@ Query String 이외에 trailing slash 로 인한 fragmentation 이슈도 있다.
 
 ## 요청 URI 를 통합하는 방법
 ### 1) Query String을 제거하는 필터 설정하기
-![image](https://user-images.githubusercontent.com/35516239/130347651-5bc8bc
+![image](https://user-images.githubusercontent.com/35516239/130347651-5bc8bc66-f4ab-41ab-ab89-c40f8d6ed764.png)
+
+- 필드 A → 추출 A : `(.*?)\?`
+- 출력 대상  → 생성자:  `$A1`  (여기서 `$A1` 위 필터에서 추출된 값을 변수로 표현한 문자)
+
+위와 같이 필터를 설정 하면 Query String이 다른 두 페이지가 `www.yoursite.c
