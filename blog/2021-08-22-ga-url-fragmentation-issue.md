@@ -14,4 +14,8 @@ tags: [google-analytics, url-fragmentation]
 
  `www.yoursite.com` 과 `www.yoursite.com?WEB_BNNR_ID=123` 두 URL 모두 같은 페이지를 의미하기  때문에 운영 중인 보기(View)에서는 두 페이지의 측정기준(Dimension)을 통합 하는 것이 유용하다. 여러 요청 URI 가 동일 사용자 경험을 나타낸다면 GA 에서 이들을 단일 페이지로 통합해야 한다.
 
-Query String 이외에 trailing slash 로 인한 fragmentation 이슈도 있다. `www.yoursite.com/page-name/` 과  `www.yoursite.com/page-name` 로 같은 페이지 접속이 가능할 때 두 URL 이 각각 다른 페이지 값으로 기록된다.   참고로 `www.
+Query String 이외에 trailing slash 로 인한 fragmentation 이슈도 있다. `www.yoursite.com/page-name/` 과  `www.yoursite.com/page-name` 로 같은 페이지 접속이 가능할 때 두 URL 이 각각 다른 페이지 값으로 기록된다.   참고로 `www.yoursite.com/page-name/` 에서 맨 마지막에 붙은 `/` 문자가 trailing slash 이다.
+
+## 요청 URI 를 통합하는 방법
+### 1) Query String을 제거하는 필터 설정하기
+![image](https://user-images.githubusercontent.com/35516239/130347651-5bc8bc
