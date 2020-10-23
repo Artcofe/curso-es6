@@ -26,4 +26,8 @@ Query String 이외에 trailing slash 로 인한 fragmentation 이슈도 있다.
 위와 같이 필터를 설정 하면 Query String이 다른 두 페이지가 `www.yoursite.com` 과 `www.yoursite.com?WEB_BNNR_ID=123` 가 동일하게  `/` 로 기록된다.
 
 운영중인 사이트에 다양한 쿼리스트링이 사용되지 않고 있다면 아래와 같이 검색어 매게 변수 제외 사항에 사이트에 사용되는 Query String을 입력하는 것만으로 충분하다. 
-![image](https://user-images.github
+![image](https://user-images.githubusercontent.com/35516239/130347850-ef76d816-8b71-43ec-a4ae-9e2b3520a3d0.png)
+
+
+### 2) Trailing Slash 필터 설정
+![image](https://user-images.githubusercontent.com/35516239/130347721-a11ef326-44
