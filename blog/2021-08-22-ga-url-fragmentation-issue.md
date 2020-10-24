@@ -30,4 +30,9 @@ Query String 이외에 trailing slash 로 인한 fragmentation 이슈도 있다.
 
 
 ### 2) Trailing Slash 필터 설정
-![image](https://user-images.githubusercontent.com/35516239/130347721-a11ef326-44
+![image](https://user-images.githubusercontent.com/35516239/130347721-a11ef326-4434-493d-888d-4f5a1c47cc45.png)
+
+- 필드 A → 추출 A : `^/(.*?)/+$`
+- 출력 대상  → 생성자:  `/$A1`  (여기서 `$A1` 위 필터에서 추출된 값을 변수로 표현한 문자)
+
+ 위와 같이 필터를 설정하면 `www.yoursite.com/page-name/` 과  `www.yours
