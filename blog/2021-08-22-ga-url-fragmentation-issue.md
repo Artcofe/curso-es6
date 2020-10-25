@@ -35,4 +35,8 @@ Query String 이외에 trailing slash 로 인한 fragmentation 이슈도 있다.
 - 필드 A → 추출 A : `^/(.*?)/+$`
 - 출력 대상  → 생성자:  `/$A1`  (여기서 `$A1` 위 필터에서 추출된 값을 변수로 표현한 문자)
 
- 위와 같이 필터를 설정하면 `www.yoursite.com/page-name/` 과  `www.yours
+ 위와 같이 필터를 설정하면 `www.yoursite.com/page-name/` 과  `www.yoursite.com/page-name` 두 페이지 모두 `/page-name` 로 기록된다.
+
+## 마치며
+
+전반적으로 URL fragmentation 이슈가 언제나 문제 되는 것은 아니지만, 문제가 되는 경우에는 큰 문제가 된다. 다른 모든 것이 제대로 구현된 많은 GA 계정에서도 URL Fragmentation 는 수만 개나 때로
