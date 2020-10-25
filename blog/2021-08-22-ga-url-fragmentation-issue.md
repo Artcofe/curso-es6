@@ -39,4 +39,4 @@ Query String 이외에 trailing slash 로 인한 fragmentation 이슈도 있다.
 
 ## 마치며
 
-전반적으로 URL fragmentation 이슈가 언제나 문제 되는 것은 아니지만, 문제가 되는 경우에는 큰 문제가 된다. 다른 모든 것이 제대로 구현된 많은 GA 계정에서도 URL Fragmentation 는 수만 개나 때로
+전반적으로 URL fragmentation 이슈가 언제나 문제 되는 것은 아니지만, 문제가 되는 경우에는 큰 문제가 된다. 다른 모든 것이 제대로 구현된 많은 GA 계정에서도 URL Fragmentation 는 수만 개나 때로는 수십만 개로 분활된 요청 URI를 만들어 낸다. 이 글에서 제시된 해결책으로 해당 문제를 미연에 방지할 수 있다.
