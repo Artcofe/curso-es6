@@ -27,4 +27,7 @@ tags: [GoogleAnalytics, GA, Search Console]
 
 1. 현재 버전 (21.10 기준)의 GA는 속성 생성 시 GA4가 default로 되어 있습니다.
 2. UA 속성을 새로 생성하기 위해, 먼저 관리자 화면으로 이동하세요.
-   ![UA_step_1](https://user-images.githubusercontent.com/5382077
+   ![UA_step_1](https://user-images.githubusercontent.com/53820773/135612776-cc9a6265-cf49-4ae7-ae21-06e4ec1092be.PNG)
+3. 상단의 `속성만들기`를 클릭하세요.
+4. 속성의 세부 설정을 입력하세요.
+   ![UA_step_2](https://user-images.githubusercontent.com/53820773/135612781-0401f88d-b384-476
