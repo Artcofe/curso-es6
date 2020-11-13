@@ -23,4 +23,8 @@ tags: [GoogleAnalytics, GA, Search Console]
 
 ## 3. GA와 서치 콘솔 연동
 
-현재 GA4 속성은 서치 콘솔과의 연동이 불가능합니다. 서치 콘솔과 연동하려면 Universal Analytics
+현재 GA4 속성은 서치 콘솔과의 연동이 불가능합니다. 서치 콘솔과 연동하려면 Universal Analytics 속성을 새로 추가하는 과정이 필요합니다.
+
+1. 현재 버전 (21.10 기준)의 GA는 속성 생성 시 GA4가 default로 되어 있습니다.
+2. UA 속성을 새로 생성하기 위해, 먼저 관리자 화면으로 이동하세요.
+   ![UA_step_1](https://user-images.githubusercontent.com/5382077
