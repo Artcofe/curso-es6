@@ -33,4 +33,9 @@ tags: [GoogleAnalytics, GA, Search Console]
    ![UA_step_2](https://user-images.githubusercontent.com/53820773/135612781-0401f88d-b384-476d-9d02-7c0159d66559.PNG)
 5. 하단의 `고급 옵션 보기`를 클릭하세요.
 6. 고급 옵션 설정을 입력한 후 `다음`을 클릭하면 UA 속성이 새로 생성됩니다.
-   ![UA_step_3](https://user-images.githubusercontent.com/53820773/135612783-b10dcc54-033d-4971-ac48-771e0d
+   ![UA_step_3](https://user-images.githubusercontent.com/53820773/135612783-b10dcc54-033d-4971-ac48-771e0d7f792d.PNG)
+
+이제 서치 콘솔와 연결한 후 구글 검색 키워드 수집이 가능합니다. 서치 콘솔과 GA 연동 방법은 두 가지가 있습니다.
+
+- _서치 콘솔 페이지 > 설정 > 연결 > 연결된 서비스_ 에서 설정
+- _GA 페이지 > 관리 > 제품 연결하기 > 모든 제품 > Search Console_ 연결
