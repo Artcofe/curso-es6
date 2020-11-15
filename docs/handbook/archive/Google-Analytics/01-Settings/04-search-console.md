@@ -30,4 +30,7 @@ tags: [GoogleAnalytics, GA, Search Console]
    ![UA_step_1](https://user-images.githubusercontent.com/53820773/135612776-cc9a6265-cf49-4ae7-ae21-06e4ec1092be.PNG)
 3. 상단의 `속성만들기`를 클릭하세요.
 4. 속성의 세부 설정을 입력하세요.
-   ![UA_step_2](https://user-images.githubusercontent.com/53820773/135612781-0401f88d-b384-476
+   ![UA_step_2](https://user-images.githubusercontent.com/53820773/135612781-0401f88d-b384-476d-9d02-7c0159d66559.PNG)
+5. 하단의 `고급 옵션 보기`를 클릭하세요.
+6. 고급 옵션 설정을 입력한 후 `다음`을 클릭하면 UA 속성이 새로 생성됩니다.
+   ![UA_step_3](https://user-images.githubusercontent.com/53820773/135612783-b10dcc54-033d-4971-ac48-771e0d
