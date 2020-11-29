@@ -53,4 +53,9 @@ URL 작성 도구를 이용해 구글 애즈에 캠페인 추적 태그를 직�
 - 각 캠페인의 클릭 수와 총 클릭 비용
 - CPC (클릭 1회의 평균 비용)
 - 각 캠페인의 사용자 참여도
-- 각 캠페인의 전환율과 실제 목표 달성 횟수, 전환이
+- 각 캠페인의 전환율과 실제 목표 달성 횟수, 전환이 궁극적으로 비즈니스에 기여한 가치(값)
+
+## 5. 참고자료
+
+- [Google Ads](https://ads.google.com/intl/ko_kr/getstarted/)
+- [https://analytics.google.com/analytics/academy](https://analytics.google.com/analytics/
