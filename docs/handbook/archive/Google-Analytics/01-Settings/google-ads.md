@@ -58,4 +58,5 @@ URL 작성 도구를 이용해 구글 애즈에 캠페인 추적 태그를 직�
 ## 5. 참고자료
 
 - [Google Ads](https://ads.google.com/intl/ko_kr/getstarted/)
-- [https://analytics.google.com/analytics/academy](https://analytics.google.com/analytics/
+- [https://analytics.google.com/analytics/academy](https://analytics.google.com/analytics/academy/)
+- [How to use Analytics with Google Ads (6:30)](https://www.youtube.com/watch?v=q8RLUH4vJXA&feature=emb_title)
