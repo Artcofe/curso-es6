@@ -59,4 +59,4 @@ tags: [GoogleAnalytics, GA]
 <img src = "https://user-images.githubusercontent.com/81066071/131259979-61d10061-ae8e-4a09-b479-86e3c6c4b2e3.png" width = "450"/><br/>
 
 - 보고서는 사이트 방문자의 일부분만을 분석합니다. 해당 비율은 그래프 우측 상단에서 확인할 수 있습니다. ex) 62.76% of total users
-- 사이트 트래픽이 너무 적거나, 세그먼트가 너무 세
+- 사이트 트래픽이 너무 적거나, 세그먼트가 너무 세분화되면 데이터가 수집되지 않을 수 있습니다.
