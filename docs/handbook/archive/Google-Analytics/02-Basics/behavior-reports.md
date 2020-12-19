@@ -46,4 +46,4 @@ GA4에는 전환 이벤트 역시 자동으로 수집되는 항목들이 있는�
 
 ## 4. 참고자료
 
-- [https://support.google.com/analytics/answer/10999789?hl=ko&ref_topic=9303476](https://support.google.com/analytics/answer
+- [https://support.google.com/analytics/answer/10999789?hl=ko&ref_topic=9303476](https://support.google.com/analytics/answer/10999789?hl=ko&ref_topic=9303476)
