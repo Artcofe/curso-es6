@@ -33,4 +33,8 @@ tags: [GoogleAnalytics, GA, Conversion, Reports]
 #### 유입경로 시각화
 
 ![개요보고서](https://user-images.githubusercontent.com/53820773/136690339-627ba67a-888f-4071-a91b-7e0a4d55c079.PNG)
-_전환 보고서_ > _목표_ > 
+_전환 보고서_ > _목표_ > *유입경로 시각화*에서 도착에 이르는 유입 경로를 시각화하여 확인할 수 있습니다. 이 보고서를 활용하면 사용자가 많이 이탈한 경로를 쉽게 확인할 수 있습니다.
+
+### 전자상거래 (Ecommerce)
+
+![전자상거래보고서](https://user-images.githubusercontent.com/53820773/136690577-75ef0d7c-6557-43
