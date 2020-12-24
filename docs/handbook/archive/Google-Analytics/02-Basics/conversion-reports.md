@@ -23,4 +23,9 @@ tags: [GoogleAnalytics, GA, Conversion, Reports]
 >
 > 사용자가 웹사이트에서 목표 행위를 완료했을 때, 전환이라고 합니다.
 
-## 
+## 2. 전환 보고서의 종류
+
+### 목표 (Goal)
+
+![목표보고서](https://user-images.githubusercontent.com/53820773/136690582-57885cf4-13e8-4270-bc2f-226c14ae0ae2.PNG)
+전환 목표(상담신청, 회원가입, 구매완료 등)의 달성 횟수와 위치, 전환율
