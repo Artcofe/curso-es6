@@ -28,4 +28,9 @@ tags: [GoogleAnalytics, GA, Conversion, Reports]
 ### 목표 (Goal)
 
 ![목표보고서](https://user-images.githubusercontent.com/53820773/136690582-57885cf4-13e8-4270-bc2f-226c14ae0ae2.PNG)
-전환 목표(상담신청, 회원가입, 구매완료 등)의 달성 횟수와 위치, 전환율
+전환 목표(상담신청, 회원가입, 구매완료 등)의 달성 횟수와 위치, 전환율 등 전환 목표와 관련된 지표들을 한 눈에 확인 할 수 있는 보고서입니다.
+
+#### 유입경로 시각화
+
+![개요보고서](https://user-images.githubusercontent.com/53820773/136690339-627ba67a-888f-4071-a91b-7e0a4d55c079.PNG)
+_전환 보고서_ > _목표_ > 
