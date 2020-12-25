@@ -43,4 +43,9 @@ _전환 보고서_ > _목표_ > *유입경로 시각화*에서 도착에 이르�
 ### 다채널 유입경로 (Multi-Channel Funnels)
 
 ![다채널 유입경로 보고서](https://user-images.githubusercontent.com/53820773/136690574-eeb622b5-614c-4d0e-aa25-db4d1fbeb6c1.PNG)
-유입 매체들이 전환에 기여하는 방식을 확인할 수 있는 보고서로, 지원전환수, 인기전환경로, 구매까지 이르는 시간, 경로 길이 등의 데이터를 수집하고 
+유입 매체들이 전환에 기여하는 방식을 확인할 수 있는 보고서로, 지원전환수, 인기전환경로, 구매까지 이르는 시간, 경로 길이 등의 데이터를 수집하고 분석할 수 있습니다.
+
+## 3. 참고자료
+
+- https://ingeniouslab.co.kr/ga-basic-report-2/
+- https://learn-test.tistory.com/25
