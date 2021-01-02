@@ -84,4 +84,5 @@ gtag('event', 'view_item', {
 ## 4. 참고자료
 
 - [https://analytics.google.com/analytics/academy](https://analytics.google.com/analytics/academy/)
-- [How to set up Goals 
+- [How to set up Goals in Analytics (7:32)](https://www.youtube.com/watch?v=2Ke3-0Jsl-I)
+- Do it! 사용자의 행동을 분석해 성과를 높이는 구글 애널리틱스
