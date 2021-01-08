@@ -16,4 +16,8 @@ GA tracking 코드에서는 웹 사이트의 도메인을 보고서의 'site'로
 
 'hit'는 사용자에 대한 유용한 정보를 담은 파라미터로 구성된 URL 문자열입니다. 또한, 무작위로 생성된 사용자 식별값도 담고 있습니다. 또한, 아래 이미지와 같이 파리미터에 다양한 사용자 정보를 담고 있습니다. ex) ul, sr.. etc
 
-![hit ur
+![hit url](https://tva1.sinaimg.cn/large/008i3skNgy1gu5vfwl0hbj60n903gt9902.jpg)
+
+'hit'는 주로 사용되는 세 종류의 Pageview hit, Event hit, Transaction hit과 그 밖의 Social hit, Page timing view hit로 구분되어 있습니다.
+
+### 2.1. Pageview 
