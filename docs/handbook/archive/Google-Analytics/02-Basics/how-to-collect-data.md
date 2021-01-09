@@ -20,4 +20,10 @@ GA tracking 코드에서는 웹 사이트의 도메인을 보고서의 'site'로
 
 'hit'는 주로 사용되는 세 종류의 Pageview hit, Event hit, Transaction hit과 그 밖의 Social hit, Page timing view hit로 구분되어 있습니다.
 
-### 2.1. Pageview 
+### 2.1. Pageview hit
+
+Pageview hit는 사용자가 page를 로드할 때, 발생되는 hit의 한 종류입니다. page를 로드할 때마다 새로운 pageview hit가 발생하며, 이 정보는 GA로 전송됩니다.
+
+### 2.2. Event hit
+
+사용자가 특정 element와 상호작용할 때, 발생되는 hit의 한 종류입니다. ex) 버튼 클릭, a 
