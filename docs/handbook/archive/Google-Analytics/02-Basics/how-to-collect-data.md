@@ -26,4 +26,10 @@ Pageview hit는 사용자가 page를 로드할 때, 발생되는 hit의 한 종�
 
 ### 2.2. Event hit
 
-사용자가 특정 element와 상호작용할 때, 발생되는 hit의 한 종류입니다. ex) 버튼 클릭, a 
+사용자가 특정 element와 상호작용할 때, 발생되는 hit의 한 종류입니다. ex) 버튼 클릭, a 태그 클릭 등...
+
+Event hit에는 4가지 URL 파라미터가 존재합니다. 4가지 파라미터를 활용해 GA 리포트 상에서 사용자 데이터를 분류할 수 있습니다. Event hit의 4가지 파라미터의 종류는 아래와 같습니다.
+
+  1. action: interaction 타입
+  2. category: interaction의 목적
+  
