@@ -32,4 +32,12 @@ Event hit에는 4가지 URL 파라미터가 존재합니다. 4가지 파라미�
 
   1. action: interaction 타입
   2. category: interaction의 목적
-  
+  3. label: 이벤트 분류를 위해 사용되는 값
+  4. value: 해당 Event에 대한 수치
+
+### 2.3. Transaction hit(Ecommerce hit)
+
+Ecommerce에 상품 구매, 관련된 data를 GA에 전송합니다.
+Transaction hit에는 아래와 같은 3가지 URL 파라미터가 존재합니다.
+
+  1. Product cat
