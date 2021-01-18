@@ -46,4 +46,5 @@ Transaction hit에는 아래와 같은 3가지 URL 파라미터가 존재합니�
 
 ### 2.4. etc
 
-- Social hit: 좋아요, 공유하기, tweet 등 social media와 관련된 interaction을 측정할 수 있습니
+- Social hit: 좋아요, 공유하기, tweet 등 social media와 관련된 interaction을 측정할 수 있습니다.
+- Page Timing view hit: 기간을 측정할 수 있습니다. ex) page load 시간, 이미자가 load 된 시간 등...
