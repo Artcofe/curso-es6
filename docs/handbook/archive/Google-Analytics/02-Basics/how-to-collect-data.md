@@ -40,4 +40,10 @@ Event hit에는 4가지 URL 파라미터가 존재합니다. 4가지 파라미�
 Ecommerce에 상품 구매, 관련된 data를 GA에 전송합니다.
 Transaction hit에는 아래와 같은 3가지 URL 파라미터가 존재합니다.
 
-  1. Product cat
+  1. Product category: 상품의 종류
+  2. Product added/removed: 상품이 추가되었는지, 삭제되었는지 (주로 장바구니에서)
+  3. Product views: 상품 조회수
+
+### 2.4. etc
+
+- Social hit: 좋아요, 공유하기, tweet 등 social media와 관련된 interaction을 측정할 수 있습니
