@@ -40,4 +40,8 @@ title: 맞춤 캠페인을 측정하는 방법
 
 ### URL 작성 도구를 사용하여 링크 생성
 
-캠페인 링크는 URL 주소 뒤에 물음
+캠페인 링크는 URL 주소 뒤에 물음표(?)와 앰퍼샌드(&)로 구분된 캠페인 변수로 구분됩니다.
+
+Ex) [http://www.example.com/**?**utm_source=adsite**&**utm_campaign=adcampaign](http://www.example.com/**?**utm_source=adsite**&**utm_campaign=adcampaign))
+
+그러나 `URL 작성도구`를 사용하여 
