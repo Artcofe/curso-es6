@@ -44,4 +44,10 @@ title: 맞춤 캠페인을 측정하는 방법
 
 Ex) [http://www.example.com/**?**utm_source=adsite**&**utm_campaign=adcampaign](http://www.example.com/**?**utm_source=adsite**&**utm_campaign=adcampaign))
 
-그러나 `URL 작성도구`를 사용하여 
+그러나 `URL 작성도구`를 사용하여 URL을 생성한다면 링크 구문에 대해 걱정하지 않아도 됩니다.
+
+생성한 링크는 복사하여 광고에 붙여넣으면 됩니다.
+
+### 필요한 캠페인 변수만 사용
+
+기존 UA의 URL 작성 도구에는 모두 6개의 필드가 있었지만, GA4에선 **캠페인 아이디**, **캠페인 소스**, **캠페인 매체**, **캠페인 이름**만 사용 가능합니다. 
