@@ -58,4 +58,5 @@ Ex) [http://www.example.com/**?**utm_source=adsite**&**utm_campaign=adcampaign](
 
 ## 5. 참고 자료
 
-- [Google Analytics Academy 초보자용 4.1](https://www.youtube.com/watch?v
+- [Google Analytics Academy 초보자용 4.1](https://www.youtube.com/watch?v=ityoF7gvtJY)
+- [https://support.google.com/analytics/answer/10917952?hl=ko#zippy=%2C이-도움말에서는-다음-내용을-다룹니다](https://support.google.com/analytics/answer/10917952?hl=ko#zippy=%2C%EC%9D%B4-%EB%8F%84%EC%9B%80%EB%A7%90
