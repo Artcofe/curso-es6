@@ -105,3 +105,41 @@ tags: [GoogleAnalytics, GA]
 #### 계정 설정
 
 원하는 계정 이름을 입력하고, 조직(Organization)을 연결하거나 계정 데이터의 공유 설정 등의 옵션을 선택할 수 있습니다.
+
+![GA-introduce-Image-6](https://storage.googleapis.com/academy-prod/evolve/academy/course06/ko/unit1/lesson3/course/en/assets/5d39f58a7ff2d605b24d235e/large.png)
+
+#### 측정 대상 설정
+
+측정 대상으로 웹사이트, 모바일 또는 둘 다 측정할지 설정할 수 있습니다.
+
+![GA-introduce-Image-7](https://storage.googleapis.com/academy-prod/evolve/academy/course06/ko/unit1/lesson3/course/en/assets/5d39f2477ff2d605b24d235a/large.png)
+
+#### 속성 설정
+
+트랙킹하려는 웹사이트의 이름을 지정하여 속성을 설정할 수 있고, 업종 카테고리를 선택하여 구글 애널리틱스에서 업종에 맞는 더 나은 보고서와 정보를 제공받을 수 있습니다.
+
+![GA-introduce-Image-8](https://storage.googleapis.com/academy-prod/evolve/academy/course06/ko/unit1/lesson3/course/en/assets/5d39f46b7ff2d605b24d235d/large.png)
+
+#### 추적 코드 설정
+
+속성 설정을 마치면 자바스크립트 추적 코드가 표시됩니다. 이 코드를 웹사이트의 head 태그 가장 위에 추적 코드를 넣습니다.
+
+![GA-introduce-Image-9](https://storage.googleapis.com/academy-prod/evolve/academy/course06/ko/unit1/lesson3/course/en/assets/5d4b27febe65813803ed171f/large.png)
+
+#### 실시간 개요 확인
+
+추적 코드를 설정한 다음에는 구글 애널리틱스에서 트랙킹이 잘 되고 있는지 확인할 수 있는 실시간 개요 보고서를 볼 수 있습니다.
+
+![GA-introduce-Image-10](https://storage.googleapis.com/academy-prod/evolve/academy/course06/ko/unit1/lesson3/course/en/assets/5d56f3f5be65813803ed1982/large.png)
+
+## 4. 계정 보기 필터를 설정하는 방법
+
+보기에 필터를 설정하는 기본적인 방법은 아래 원문과 참고자료에서 확인하실 수 있습니다.
+
+[👉 원문 링크](https://support.google.com/analytics/answer/6382981?hl=ko)
+
+[👉 보기 필터 작성 및 관리 참고자료](https://support.google.com/analytics/answer/1034823?hl=ko#zippy=%2C%EC%9D%B4-%EB%8F%84%EC%9B%80%EB%A7%90%EC%97%90-%EB%82%98%EC%99%80-%EC%9E%88%EB%8A%94-%EB%82%B4%EC%9A%A9%EC%9D%80-%EB%8B%A4%EC%9D%8C%EA%B3%BC-%EA%B0%99%EC%8A%B5%EB%8B%88%EB%8B%A4)
+
+## 5. 참고자료
+
+- [https://analytics.google.com/analytics/academy](https://analytics.google.com/analytics/academy/)
