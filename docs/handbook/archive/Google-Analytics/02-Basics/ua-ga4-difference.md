@@ -29,4 +29,8 @@ UA와 GA4의 계정 구조 차이에 대해 살펴보겠습니다. 먼저 UA의 
 
    필터의 단점에 대해 더 알아보고 싶다면 [여기](https://support.google.com/analytics/answer/1033162?hl=en#zippy=%2Cin-this-article) 에서 **Limitations of filters** 를 참고하실 수 있습니다.
 
-2. **웹사이트와 앱은 각각의
+2. **웹사이트와 앱은 각각의 속성으로 만들어야 한다**
+
+   UA에서는 웹과 앱을 하나의 속성에서 관리할 수 없습니다. 동일한 서비스를 웹과 앱으로 동시에 서비스하고 있다고 해도, 각각의 속성으로 만들어 각각의 뷰를 생성해야 하므로 데이터를 모아서 보기에 불편한 점이 있습니다.
+
+   ![image](https://user-images.githubusercontent
