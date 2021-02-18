@@ -33,4 +33,10 @@ UA와 GA4의 계정 구조 차이에 대해 살펴보겠습니다. 먼저 UA의 
 
    UA에서는 웹과 앱을 하나의 속성에서 관리할 수 없습니다. 동일한 서비스를 웹과 앱으로 동시에 서비스하고 있다고 해도, 각각의 속성으로 만들어 각각의 뷰를 생성해야 하므로 데이터를 모아서 보기에 불편한 점이 있습니다.
 
-   ![image](https://user-images.githubusercontent
+   ![image](https://user-images.githubusercontent.com/46309894/131214423-0c523610-fd0d-416e-9058-e9c1337648d7.png)
+
+### 1.2. 개선된 GA4의 계정 구조
+
+GA4는 위에서 서술한 UA의 단점들을 어떻게 보완했는지 살펴보겠습니다.
+
+| ![image](https://user-images.githubusercontent.com/46309894/131215475-e
