@@ -49,4 +49,4 @@ GA4는 위에서 서술한 UA의 단점들을 어떻게 보완했는지 살펴�
 
    첫 번째는 데이터 필터입니다. GA4의 왼쪽 사이드바 맨 밑에 있는 관리자(Admin) - 속성(Property) - 데이터 설정(Data settings) - 데이터 필터(Data filters)로 들어가면 트래픽에 대한 필터를 걸 수 있습니다. 예를 들어 특정 서브도메인으로부터 온 트래픽만 필터링해서 보고 싶다면 이 기능을 사용하면 됩니다.
 
-   두 번째는 탐색(Explorations)입니다. 왼쪽 사이드바에 탐색(Explore)을 버튼을 누르면 굉장히 다양한 보고서를 만들 수 있습니다. 기본적으로 [Dimenstion과 Metric](https://support.google.com/analytics/answer/1033861?hl=en#zippy=%2Cin-this-ar
+   두 번째는 탐색(Explorations)입니다. 왼쪽 사이드바에 탐색(Explore)을 버튼을 누르면 굉장히 다양한 보고서를 만들 수 있습니다. 기본적으로 [Dimenstion과 Metric](https://support.google.com/analytics/answer/1033861?hl=en#zippy=%2Cin-this-article) 을 설정하여 보고서를 만들되 원하는 Dimension과 Metric 모두 필터링할 수 있습니다. 조금 더 자세한 내용은 [여기](https://support.google.com/analytics/answer/7579450?hl=en#zippy=%
