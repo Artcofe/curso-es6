@@ -67,4 +67,6 @@ GA4는 위에서 서술한 UA의 단점들을 어떻게 보완했는지 살펴�
 
 - UA 데이터 모델에서는 이벤트의 구조가 'Category', 'Action', 'Label' 이라는 3가지 구조로 나누어져 있으며 이에 맞추어 이벤트 데이터를 보내야 했습니다.
 
-  그리고 사용자의 행동을 
+  그리고 사용자의 행동을 **Hit** 이라고 하는데, 'page tracking hit', 'event tracking hit', 'ecommerce tracking hit' 등으로 분류돼 있고 데이터를 보낼 때 무슨 hit에 속하는지를 나타내는 hit type을 함께 전송해야 했습니다.
+
+  반면 GA4에서는 이런 hit type과 같은 구분 없이 
