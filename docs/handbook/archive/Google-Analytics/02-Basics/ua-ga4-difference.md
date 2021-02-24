@@ -69,4 +69,4 @@ GA4는 위에서 서술한 UA의 단점들을 어떻게 보완했는지 살펴�
 
   그리고 사용자의 행동을 **Hit** 이라고 하는데, 'page tracking hit', 'event tracking hit', 'ecommerce tracking hit' 등으로 분류돼 있고 데이터를 보낼 때 무슨 hit에 속하는지를 나타내는 hit type을 함께 전송해야 했습니다.
 
-  반면 GA4에서는 이런 hit type과 같은 구분 없이 
+  반면 GA4에서는 이런 hit type과 같은 구분 없이 모든 정보를 이벤트 하나로 처리하며, UA의 'Category', 'Action', 'Label' 과 달리 정해진 데이터 구조의 제한이 없이 원하는 데이터의 전송이 가능합니다. 이 차이점에 대해 더 자세히 알고 싶다면 [여기](https://support.google.com/analytics/answer/9964640?hl
