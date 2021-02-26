@@ -75,4 +75,8 @@ GA4는 위에서 서술한 UA의 단점들을 어떻게 보완했는지 살펴�
 
 지금까지 새로운 UA와 GA4의 차이점에 대해 알아봤습니다. 전반적으로 GA4는 UA보다 유연하게 데이터를 수집하고 통합적으로 볼 수 있다는 장점이 있는 것 같습니다. 그렇다면 지금 UA를 쓰고 있다면 GA4로 옮겨야 할까요? 만약 웹과 앱의 데이터를 하나의 속성에서 보고 싶다면 옮기는 게 좋겠고, 더 많은 보고서와 향상된 측정 기능을 사용하고 싶으면 고려해볼 수 있을 것 같습니다.
 
-마지막으로 UA에서 GA4로 옮기고 싶다면 [여기](https://support.google.com/analytics/answer/10312255?hl=en) 를 참
+마지막으로 UA에서 GA4로 옮기고 싶다면 [여기](https://support.google.com/analytics/answer/10312255?hl=en) 를 참고해보세요. UA 애널리틱스 페이지의 왼쪽 사이드바 - 관리자 - 속성에서 맨 위에 있는 GA4 어시스턴트 설정을 누르면 시작할 수 있습니다.
+
+## 4. 참고 자료
+
+- [https://www.inflearn.com/course/구글-애널리틱스4](https://www.inflearn.com/course/%EA%B5%AC%EA%B8%80-%EC%95%A0%EB%8
