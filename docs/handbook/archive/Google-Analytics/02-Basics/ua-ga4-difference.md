@@ -79,4 +79,4 @@ GA4는 위에서 서술한 UA의 단점들을 어떻게 보완했는지 살펴�
 
 ## 4. 참고 자료
 
-- [https://www.inflearn.com/course/구글-애널리틱스4](https://www.inflearn.com/course/%EA%B5%AC%EA%B8%80-%EC%95%A0%EB%8
+- [https://www.inflearn.com/course/구글-애널리틱스4](https://www.inflearn.com/course/%EA%B5%AC%EA%B8%80-%EC%95%A0%EB%84%90%EB%A6%AC%ED%8B%B1%EC%8A%A44/)
