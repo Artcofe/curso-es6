@@ -25,4 +25,6 @@ sidebar_position: 3
 
 ## 퍼널 분석 관련 TIP
 - 목표 도달을 위한 단계 설정이 어렵다면, AARRR 프레임워크를 이용하자.<br/>
-```AARR
+```AARRR프레임워크```: 방문(Acquisition)-회원가입(Activation)-구매(Revenue)-재구매(Retention)-타인에게 추천(Referral)
+- 초기 단계에서 이탈률이 높을 경우, 후반 단계의 측정치 또한 저조하리라는 것을 명심하자.
+- 이탈률 감소를 위한 개선안은 **A/B 테스트**등과 같은 기법을 통해 다양하게 실험해보자.
