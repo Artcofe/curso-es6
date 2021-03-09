@@ -18,4 +18,12 @@ Create a markdown file at `docs/hello.md`:
 # Hello
 
 This is my **first Docusaurus document**!
-``
+```
+
+A new document is now available at `http://localhost:3000/docs/hello`.
+
+## Configure the Sidebar
+
+Docusaurus automatically **creates a sidebar** from the `docs` folder.
+
+Add metadatas to customize the sid
