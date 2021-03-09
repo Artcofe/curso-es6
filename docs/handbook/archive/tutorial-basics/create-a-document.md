@@ -26,4 +26,17 @@ A new document is now available at `http://localhost:3000/docs/hello`.
 
 Docusaurus automatically **creates a sidebar** from the `docs` folder.
 
-Add metadatas to customize the sid
+Add metadatas to customize the sidebar label and position:
+
+```md title="docs/hello.md" {1-4}
+---
+sidebar_label: 'Hi!'
+sidebar_position: 3
+---
+
+# Hello
+
+This is my **first Docusaurus document**!
+```
+
+It is also possible t
