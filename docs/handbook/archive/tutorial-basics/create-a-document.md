@@ -46,4 +46,10 @@ module.exports = {
   tutorialSidebar: [
     {
       type: 'category',
-      label: 'Tutori
+      label: 'Tutorial',
+-     items: [...],
++     items: ['hello'],
+    },
+  ],
+};
+```
