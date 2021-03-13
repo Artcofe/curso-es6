@@ -20,3 +20,14 @@ import Layout from '@theme/Layout';
 
 export default function MyReactPage() {
   return (
+    <Layout>
+      <h1>My React page</h1>
+      <p>This is a React page</p>
+    </Layout>
+  );
+}
+```
+
+A new page is now available at `http://localhost:3000/my-react-page`.
+
+## Create your first Mar
