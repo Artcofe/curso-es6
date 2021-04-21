@@ -32,4 +32,15 @@ module.exports = {
   themeConfig: {
     navbar: {
       items: [
-        // hig
+        // highlight-start
+        {
+          type: 'docsVersionDropdown',
+        },
+        // highlight-end
+      ],
+    },
+  },
+};
+```
+
+The docs version dropdown appears in yo
