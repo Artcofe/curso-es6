@@ -43,4 +43,10 @@ module.exports = {
 };
 ```
 
-The docs version dropdown appears in yo
+The docs version dropdown appears in your navbar:
+
+![Docs Version Dropdown](/img/tutorial/docsVersionDropdown.png)
+
+## Update an existing version
+
+It is possible to edit versioned docs in their respective folder:
