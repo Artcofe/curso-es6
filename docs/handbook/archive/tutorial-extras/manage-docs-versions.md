@@ -23,4 +23,13 @@ Your docs now have 2 versions:
 
 ## Add a Version Dropdown
 
-To navigate seamlessly across ver
+To navigate seamlessly across versions, add a version dropdown.
+
+Modify the `docusaurus.config.js` file:
+
+```js title="docusaurus.config.js"
+module.exports = {
+  themeConfig: {
+    navbar: {
+      items: [
+        // hig
