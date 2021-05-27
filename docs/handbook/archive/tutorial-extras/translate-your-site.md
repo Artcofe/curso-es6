@@ -31,4 +31,12 @@ cp docs/intro.md i18n/fr/docusaurus-plugin-content-docs/current/intro.md
 
 Translate `i18n/fr/docusaurus-plugin-content-docs/current/intro.md` in French.
 
-## Start your localized
+## Start your localized site
+
+Start your site on the French locale:
+
+```bash
+npm run start -- --locale fr
+```
+
+Your localized site is accessible at `http://localhost:3000/fr/` and the `Getting Started` pa
