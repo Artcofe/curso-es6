@@ -60,4 +60,17 @@ module.exports = {
       items: [
         // highlight-start
         {
-          type: 'localeDro
+          type: 'localeDropdown',
+        },
+        // highlight-end
+      ],
+    },
+  },
+};
+```
+
+The locale dropdown now appears in your navbar:
+
+![Locale Dropdown](/img/tutorial/localeDropdown.png)
+
+## Build you
