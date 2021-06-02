@@ -11,4 +11,7 @@
     "clear": "docusaurus clear",
     "serve": "docusaurus serve",
     "write-translations": "docusaurus write-translations",
-    "write
+    "write-heading-ids": "docusaurus write-heading-ids",
+    "lint": "eslint './**/*.+(js|ts)?(x)'",
+    "format": "prettier --check . --ignore-path ./.prettierignore",
+    "format-fix": "prettier --write . 
