@@ -113,3 +113,16 @@ module.exports = {
           editUrl:
             'https://github.com/facebook/docusaurus/edit/master/website/blog/',
         },
+        theme: {
+          customCss: require.resolve('./src/css/custom.css'),
+        },
+        sitemap: {
+          changefreq: 'weekly',
+          priority: 0.5,
+          trailingSlash: false,
+        },
+      },
+    ],
+  ],
+  plugins: [require.resolve('./src/plugins/webpack-configure/index.ts')],
+};
