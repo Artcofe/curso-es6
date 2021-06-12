@@ -41,4 +41,11 @@
     ],
     "development": [
       "last 1 chrome version",
-      "last 1 firefox version
+      "last 1 firefox version",
+      "last 1 safari version"
+    ]
+  },
+  "devDependencies": {
+    "@docusaurus/module-type-aliases": "^2.0.0-beta.4",
+    "@emotion/babel-plugin": "^11.3.0",
+ 
