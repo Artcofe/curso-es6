@@ -22,3 +22,7 @@ module.exports = {
       type: 'category',
       label: 'Tutorial',
       items: ['hello'],
+    },
+  ],
+   */
+};
