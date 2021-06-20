@@ -10,4 +10,11 @@ const ChatBox = ({
   children,
 }: {
   avatar: Avatar;
-  children: React
+  children: React.ReactNode;
+}) => {
+  const imgSrc = useMemo(() => {
+    switch (avatar) {
+      case 'rabbit-happy':
+        return RabbitHappy;
+      case 'raccoon-dizzy':
+        return Raccoon
