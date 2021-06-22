@@ -17,4 +17,12 @@ const ChatBox = ({
       case 'rabbit-happy':
         return RabbitHappy;
       case 'raccoon-dizzy':
-        return Raccoon
+        return RaccoonDizzy;
+      default:
+        return ''; // TODO: 기본 아바타 이미지
+    }
+  }, [avatar]);
+  return (
+    <ChatContainer>
+      <img src={imgSrc} alt="avatar" />
+      &quot;{children}&qu
