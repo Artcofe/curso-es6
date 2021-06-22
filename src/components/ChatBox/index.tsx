@@ -36,4 +36,13 @@ const ChatContainer = styled.div`
   padding: 0.7em;
   border-radius: 6px;
   align-items: center;
-  box-shadow: 1
+  box-shadow: 1px 1px 6px -1px #b6b6b6;
+  margin-bottom: 1em;
+
+  > img {
+    height: 2.5em;
+    margin-right: 1em;
+  }
+`;
+
+export default ChatBox;
