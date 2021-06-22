@@ -25,4 +25,15 @@ const ChatBox = ({
   return (
     <ChatContainer>
       <img src={imgSrc} alt="avatar" />
-      &quot;{children}&qu
+      &quot;{children}&quot;
+    </ChatContainer>
+  );
+};
+
+const ChatContainer = styled.div`
+  display: flex;
+  background: #efeeeebf;
+  padding: 0.7em;
+  border-radius: 6px;
+  align-items: center;
+  box-shadow: 1
