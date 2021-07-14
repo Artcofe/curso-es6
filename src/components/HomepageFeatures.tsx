@@ -21,4 +21,13 @@ const FeatureList = [
     Svg: require('../../static/img/undraw_docusaurus_tree.svg').default,
     description: (
       <>
-        여러분의 프로젝트에 웹 분석 툴을 연동하
+        여러분의 프로젝트에 웹 분석 툴을 연동하기 위해선 어떤 코드가 필요할까요?
+      </>
+    ),
+  },
+  {
+    title: 'GA와 Amplitude를 한번에',
+    Svg: require('../../static/img/undraw_docusaurus_react.svg').default,
+    description: (
+      <>
+   
