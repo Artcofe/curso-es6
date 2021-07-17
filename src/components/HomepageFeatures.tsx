@@ -38,4 +38,10 @@ const FeatureList = [
 ];
 
 function Feature({ Svg, title, description }) {
-  return 
+  return (
+    <FeatureContainer>
+      <FeatureIconWrapper>
+        <Svg css={featureIconStyle} alt={title} />
+      </FeatureIconWrapper>
+      <FeatureInfo>
+        <FeatureTitle>{title
