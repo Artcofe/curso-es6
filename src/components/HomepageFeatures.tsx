@@ -30,4 +30,12 @@ const FeatureList = [
     Svg: require('../../static/img/undraw_docusaurus_react.svg').default,
     description: (
       <>
-   
+        react-analytics-provider 오픈소스를 통해 Google Analytics, Amplitude와
+        같은 분석 툴 도입의 진입 장벽을 낮출 수 있습니다.
+      </>
+    ),
+  },
+];
+
+function Feature({ Svg, title, description }) {
+  return 
