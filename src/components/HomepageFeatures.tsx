@@ -44,4 +44,11 @@ function Feature({ Svg, title, description }) {
         <Svg css={featureIconStyle} alt={title} />
       </FeatureIconWrapper>
       <FeatureInfo>
-        <FeatureTitle>{title
+        <FeatureTitle>{title}</FeatureTitle>
+        <FeatureDescription>{description}</FeatureDescription>
+      </FeatureInfo>
+    </FeatureContainer>
+  );
+}
+
+export default function HomepageFeatures() {
