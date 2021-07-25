@@ -72,4 +72,15 @@ const FeatureIconWrapper = styled.div`
 const FeatureInfo = styled.div`
   text-align: center;
   padding-left: 1rem;
-  paddin
+  padding-right: 1rem;
+`;
+
+const featureIconStyle = css`
+  height: 200px;
+  width: 200px;
+`;
+
+const FeatureTitle = styled.h3``;
+const FeatureDescription = styled.p``;
+const FeatureContainer = styled.div`
+  ${mq()({
