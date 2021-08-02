@@ -92,4 +92,6 @@ const FeatureContainer = styled.div`
 const featuresStyle = css`
   display: flex;
   align-items: center;
-  padding:
+  padding: 2rem 0;
+  width: 100%;
+`;
