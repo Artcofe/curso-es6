@@ -5,3 +5,13 @@ export default function LetterButtonList({
   letters,
   onClick,
 }: {
+  letters: string[];
+  onClick: (value: string) => void;
+}) {
+  return (
+    <Ul>
+      {letters.map(letter => (
+        <Li key={letter}>
+          <Button
+            onClick={() => {
+   
