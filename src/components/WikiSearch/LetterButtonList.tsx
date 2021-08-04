@@ -14,4 +14,16 @@ export default function LetterButtonList({
         <Li key={letter}>
           <Button
             onClick={() => {
-   
+              onClick(letter);
+            }}
+          >
+            {letter}
+          </Button>
+        </Li>
+      ))}
+    </Ul>
+  );
+}
+
+const Ul = styled.ul`
+  padding: 0
