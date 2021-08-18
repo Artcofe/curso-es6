@@ -38,4 +38,12 @@ const Li = styled.li`
 const Button = styled.button`
   display: flex;
   justify-content: center;
-  align-ite
+  align-items: center;
+  width: 26px;
+  height: 26px;
+  margin: 3px;
+  border: 1px solid var(--ifm-color-gray-300);
+  border-radius: 4px;
+  background-color: #ffffff;
+  color: #000000;
+ 
