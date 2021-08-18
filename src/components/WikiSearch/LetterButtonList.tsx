@@ -26,4 +26,16 @@ export default function LetterButtonList({
 }
 
 const Ul = styled.ul`
-  padding: 0
+  padding: 0;
+  margin-bottom: 7px;
+`;
+
+const Li = styled.li`
+  display: inline-block;
+  list-style: none;
+`;
+
+const Button = styled.button`
+  display: flex;
+  justify-content: center;
+  align-ite
