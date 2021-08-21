@@ -46,4 +46,12 @@ const Button = styled.button`
   border-radius: 4px;
   background-color: #ffffff;
   color: #000000;
- 
+  cursor: pointer;
+
+  &:hover {
+    background-color: var(--ifm-color-gray-200);
+  }
+
+  &:focus {
+    color: #ffffff;
+    background-color: var(--ifm-color-primary)
