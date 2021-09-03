@@ -54,4 +54,7 @@ const Button = styled.button`
 
   &:focus {
     color: #ffffff;
-    background-color: var(--ifm-color-primary)
+    background-color: var(--ifm-color-primary);
+    border-color: var(--ifm-color-primary);
+  }
+`;
