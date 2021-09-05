@@ -14,3 +14,10 @@ export default function WikiTable({ words = [] }: { words: string[] }) {
   return (
     <>
       <span>{currentPage}</span>
+      <button onClick={onPrevious} disabled={isFirstPage}>
+        Previous
+      </button>
+      <button onClick={onNext} disabled={isLastPage}>
+        Next
+      </button>
+      <tab
