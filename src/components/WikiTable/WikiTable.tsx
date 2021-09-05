@@ -20,4 +20,10 @@ export default function WikiTable({ words = [] }: { words: string[] }) {
       <button onClick={onNext} disabled={isLastPage}>
         Next
       </button>
-      <tab
+      <table width="100%" summary="Web Analytics Handbook 용어사전">
+        <thead>
+          <tr style={{ borderBottom: 'none' }}>
+            <th>용어</th>
+            <th>뜻</th>
+          </tr>
+    
