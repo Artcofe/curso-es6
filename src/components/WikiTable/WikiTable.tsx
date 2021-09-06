@@ -26,4 +26,13 @@ export default function WikiTable({ words = [] }: { words: string[] }) {
             <th>용어</th>
             <th>뜻</th>
           </tr>
-    
+        </thead>
+        <tbody>
+          {result.map(word => (
+            <WikiTableRow key={word.name} {...word} />
+          ))}
+        </tbody>
+      </table>
+    </>
+  );
+}
