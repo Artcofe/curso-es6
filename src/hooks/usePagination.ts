@@ -12,4 +12,12 @@ const usePagination = ({ source = [], initialPage = 1, offset = 10 }) => {
   };
 
   const minPage = 1;
-  const [currentPage, setCurrentPage] = useS
+  const [currentPage, setCurrentPage] = useState(initialPage);
+
+  useEffect(() => {
+    if (currentPage !== 1) setCurrentPage(1);
+    else getResult();
+  }, [source]);
+
+  const onPrevious = () => {
+    if (currentPage <= min
