@@ -20,4 +20,14 @@ const usePagination = ({ source = [], initialPage = 1, offset = 10 }) => {
   }, [source]);
 
   const onPrevious = () => {
-    if (currentPage <= min
+    if (currentPage <= minPage) return;
+    setCurrentPage(currentPage - 1);
+  };
+
+  const onNext = () => {
+    if (currentPage >= getMaxPage()) return;
+    setCurrentPage(currentPage + 1);
+  };
+
+  return {
+    result: getResult(),
