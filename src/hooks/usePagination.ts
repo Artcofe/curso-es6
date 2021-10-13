@@ -31,3 +31,12 @@ const usePagination = ({ source = [], initialPage = 1, offset = 10 }) => {
 
   return {
     result: getResult(),
+    currentPage,
+    isLastPage: currentPage === getMaxPage(),
+    isFirstPage: currentPage === minPage,
+    onPrevious,
+    onNext,
+  };
+};
+
+export default usePagination;
