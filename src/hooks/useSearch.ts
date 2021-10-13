@@ -10,4 +10,7 @@ const NUMBER_OF_KOREAN_CODA = 28;
 const ALPHABET_REGEX = new RegExp(/^[A-Za-z]$/);
 const KOREAN_CONSONANTS_REGEX = new RegExp(/^[ㄱ-ㅎ]$/);
 
-const 
+const isLetterFilterValue = (value: string): boolean => {
+  return ALPHABET_REGEX.test(value) || KOREAN_CONSONANTS_REGEX.test(value);
+};
+const getLetterLanguage = (value: string): 'KOREAN' | 'ENGLISH' | nu
