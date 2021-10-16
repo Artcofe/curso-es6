@@ -23,4 +23,8 @@ const getLetterLanguage = (value: string): 'KOREAN' | 'ENGLISH' | null => {
 };
 
 const useSearch = (source: WikiWord[]) => {
-  const [result, setRe
+  const [result, setResult] = useState(source);
+  const onSearch = (keyword: string) => {
+    keyword = keyword.trim();
+    if (isLetterFilterValue(keyword)) {
+      onFilter({ value: keyword, language: get
