@@ -27,4 +27,14 @@ const useSearch = (source: WikiWord[]) => {
   const onSearch = (keyword: string) => {
     keyword = keyword.trim();
     if (isLetterFilterValue(keyword)) {
-      onFilter({ value: keyword, language: get
+      onFilter({ value: keyword, language: getLetterLanguage(keyword) });
+    } else {
+      setResult(source.filter(item => item.name.includes(keyword)));
+    }
+  };
+
+  const onFilter = ({
+    value,
+    language,
+  }: {
+    value: s
