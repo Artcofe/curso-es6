@@ -37,4 +37,11 @@ const useSearch = (source: WikiWord[]) => {
     value,
     language,
   }: {
-    value: s
+    value: string;
+    language: string;
+  }) => {
+    switch (language) {
+      case 'KOREAN':
+        setResult(
+          source.filter(item => {
+            const code = item.name.trim().charCodeAt
