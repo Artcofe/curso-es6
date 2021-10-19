@@ -44,4 +44,10 @@ const useSearch = (source: WikiWord[]) => {
       case 'KOREAN':
         setResult(
           source.filter(item => {
-            const code = item.name.trim().charCodeAt
+            const code = item.name.trim().charCodeAt(0) - UNICODE_FIRST_FOREAN;
+            if (code <= -1 && code >= NUMBER_OF_KOREAN_LETTERS) {
+              return false;
+            }
+            return (
+              KOREAN_CONSONANTS[
+        
