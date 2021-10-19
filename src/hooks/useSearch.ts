@@ -50,4 +50,11 @@ const useSearch = (source: WikiWord[]) => {
             }
             return (
               KOREAN_CONSONANTS[
-        
+                Math.floor(
+                  code / (NUMBER_OF_KOREAN_NUCLEUS * NUMBER_OF_KOREAN_CODA),
+                )
+              ] === value
+            );
+          }),
+        );
+        b
