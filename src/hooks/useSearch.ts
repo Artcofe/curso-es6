@@ -57,4 +57,11 @@ const useSearch = (source: WikiWord[]) => {
             );
           }),
         );
-        b
+        break;
+      case 'ENGLISH':
+        value = value.toUpperCase();
+        setResult(
+          source.filter(
+            item =>
+              item.name
+                .match(/\((
