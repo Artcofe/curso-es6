@@ -64,4 +64,11 @@ const useSearch = (source: WikiWord[]) => {
           source.filter(
             item =>
               item.name
-                .match(/\((
+                .match(/\((.*?)\)/g)[0]
+                .replace(/[()]/gi, '')
+                .trim()
+                .toUpperCase()
+                .charAt(0) === value,
+          ),
+        );
+        bre
