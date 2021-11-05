@@ -71,4 +71,16 @@ const useSearch = (source: WikiWord[]) => {
                 .charAt(0) === value,
           ),
         );
-        bre
+        break;
+      default:
+        setResult([]);
+    }
+  };
+  return {
+    result,
+    onSearch,
+    onFilter,
+  };
+};
+
+export default useSearch;
