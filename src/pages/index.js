@@ -10,4 +10,7 @@ import Footer from 'theme/Footer';
 function HomepageHeader() {
   const { siteConfig } = useDocusaurusContext();
   return (
-    <hea
+    <header className={clsx('hero hero--primary', styles.heroBanner)}>
+      <div className="container">
+        <h1 className="hero__title">{siteConfig.title}</h1>
+        <p className="hero__subtitle">
