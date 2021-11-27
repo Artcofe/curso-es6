@@ -43,4 +43,15 @@ function HomepageHeader() {
           >
             react-analytics-provider
           </Link>
-        </div
+        </div>
+      </div>
+    </header>
+  );
+}
+
+export default function Home() {
+  const { siteConfig } = useDocusaurusContext();
+  return (
+    <Layout
+      title={`${siteConfig.title}`}
+      
