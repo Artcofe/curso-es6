@@ -36,3 +36,11 @@ function HomepageHeader() {
             to="/docs/react-analytics-provider/intro"
             onClick={() => {
               gtag('event', 'react-analytics-provider 클릭', {
+                event_category: '메인페이지',
+                event_label: '라벨',
+              });
+            }}
+          >
+            react-analytics-provider
+          </Link>
+        </div
