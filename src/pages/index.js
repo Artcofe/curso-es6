@@ -61,4 +61,7 @@ export default function Home() {
       <main>
         <HomepageFeatures />
       </main>
-    
+      <Footer />
+    </Layout>
+  );
+}
