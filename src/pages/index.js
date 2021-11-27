@@ -32,4 +32,7 @@ function HomepageHeader() {
         <div style={{ marginTop: 10 }}>코드에 적용하려면</div>
         <div className={styles.buttons}>
           <Link
-    
+            className="button button--secondary button--lg"
+            to="/docs/react-analytics-provider/intro"
+            onClick={() => {
+              gtag('event', 'react-analytics-provider 클릭', {
