@@ -18,4 +18,10 @@ function HomepageHeader() {
         <div className={styles.buttons}>
           <Link
             className="button button--secondary button--lg"
-      
+            to="/docs/handbook/intro"
+            onClick={() => {
+              gtag('event', '핸드북 읽기 클릭', {
+                event_category: '메인페이지',
+                event_label: '라벨',
+              });
+            }}
