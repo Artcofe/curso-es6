@@ -25,3 +25,11 @@ function HomepageHeader() {
                 event_label: '라벨',
               });
             }}
+          >
+            핸드북 읽기
+          </Link>
+        </div>
+        <div style={{ marginTop: 10 }}>코드에 적용하려면</div>
+        <div className={styles.buttons}>
+          <Link
+    
