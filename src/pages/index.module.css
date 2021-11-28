@@ -19,4 +19,7 @@
 }
 
 .buttons {
-  displa
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
