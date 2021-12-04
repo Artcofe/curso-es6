@@ -13,4 +13,9 @@ const deviceWidth: DeviceWidth = {
 const mq = (breakpoints = deviceWidth): DynamicStyleFunction => {
   const mediaQueries: string[] = Object.values(breakpoints)
     .sort((curr: number, next: number) => curr - next)
-    .map((breakpoint: number) => `@media(min-width: ${bre
+    .map((breakpoint: number) => `@media(min-width: ${breakpoint}px)`);
+
+  return facepaint(mediaQueries, { overlap: true });
+};
+
+export default mq;
