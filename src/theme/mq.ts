@@ -10,4 +10,7 @@ const deviceWidth: DeviceWidth = {
   m: 1000,
 };
 
-const mq = (breakpoints = dev
+const mq = (breakpoints = deviceWidth): DynamicStyleFunction => {
+  const mediaQueries: string[] = Object.values(breakpoints)
+    .sort((curr: number, next: number) => curr - next)
+    .map((breakpoint: number) => `@media(min-width: ${bre
