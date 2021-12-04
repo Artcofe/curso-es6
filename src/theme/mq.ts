@@ -1,0 +1,1 @@
+import facepaint, { DynamicStyleFunction } f
