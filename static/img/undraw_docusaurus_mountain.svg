@@ -59,4 +59,6 @@
       <g id="Group_8" data-name="Group 8" transform="matrix(0.966, -0.259, 0.259, 0.966, 109.327, 91.085)">
         <rect id="Rectangle_3" data-name="Rectangle 3" width="92.361" height="36.462" rx="2" transform="translate(0 0)" fill="#d8d8d8"/>
         <g id="Group_2" data-name="Group 2" transform="translate(1.531 23.03)">
-          <rect id="Rectangle_4" data-name="Rectangle 4" width="5.336" height="5.336" rx="1" transform="translate(16.797 0)" 
+          <rect id="Rectangle_4" data-name="Rectangle 4" width="5.336" height="5.336" rx="1" transform="translate(16.797 0)" fill="#4a4a4a"/>
+          <rect id="Rectangle_5" data-name="Rectangle 5" width="5.336" height="5.336" rx="1" transform="translate(23.12 0)" fill="#4a4a4a"/>
+          <rect id="Rectangle_6" da
