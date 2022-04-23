@@ -68,4 +68,7 @@
           <rect id="Rectangle_10" data-name="Rectangle 10" width="5.336" height="5.336" rx="1" transform="translate(54.739 0)" fill="#4a4a4a"/>
           <rect id="Rectangle_11" data-name="Rectangle 11" width="5.336" height="5.336" rx="1" transform="translate(61.063 0)" fill="#4a4a4a"/>
           <rect id="Rectangle_12" data-name="Rectangle 12" width="5.336" height="5.336" rx="1" transform="translate(67.386 0)" fill="#4a4a4a"/>
-          <path id="Path_51" data-name="Path 51" d="M1.093,0H14.518a1.093,1.093,0,0,1,1.093,1.093V4.243a1.093,1.093,0,0,1-1.093,1.093H1.093A1.093,1.093,0,0,1,0,4.243V1.093A1.093,1.093,0,0,1,1.093,0ZM75,0H88.426a1.093,1.093,0,0,1,1.093,1.093V4.243a1.093,1.093,0,0,1-1.093,1.093H75a1.093,1.093,0,0,1-1.093-1.093V1.093A1.093,1.093,0,0,1
+          <path id="Path_51" data-name="Path 51" d="M1.093,0H14.518a1.093,1.093,0,0,1,1.093,1.093V4.243a1.093,1.093,0,0,1-1.093,1.093H1.093A1.093,1.093,0,0,1,0,4.243V1.093A1.093,1.093,0,0,1,1.093,0ZM75,0H88.426a1.093,1.093,0,0,1,1.093,1.093V4.243a1.093,1.093,0,0,1-1.093,1.093H75a1.093,1.093,0,0,1-1.093-1.093V1.093A1.093,1.093,0,0,1,75,0Z" transform="translate(0 0)" fill="#4a4a4a" fill-rule="evenodd"/>
+        </g>
+        <g id="Group_3" data-name="Group 3" transform="translate(1.531 10.261)">
+          <path id="Path
