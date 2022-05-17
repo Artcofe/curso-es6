@@ -88,4 +88,5 @@
         </g>
         <g id="Group_4" data-name="Group 4" transform="translate(91.05 9.546) rotate(180)">
           <path id="Path_53" data-name="Path 53" d="M1.093,0H6.219A1.093,1.093,0,0,1,7.312,1.093v3.15A1.093,1.093,0,0,1,6.219,5.336H1.093A1.093,1.093,0,0,1,0,4.243V1.093A1.093,1.093,0,0,1,1.093,0Z" transform="translate(0 0)" fill="#4a4a4a" fill-rule="evenodd"/>
-          <rect id="Rectangle_26" data-name="Rectangle 
+          <rect id="Rectangle_26" data-name="Rectangle 26" width="5.336" height="5.336" rx="1" transform="translate(8.299 0)" fill="#4a4a4a"/>
+          <rect id="Rectangle_27" data-name="Rectangle 27" width="5.336" height="5.336"
