@@ -51,4 +51,6 @@
       <path id="Path_50" data-name="Path 50" d="M83,163.779h20.779V143H83Z" transform="translate(-41.443 -77.665)" fill="#3ecc5f" fill-rule="evenodd"/>
       <g id="Group_8" data-name="Group 8" transform="matrix(0.966, -0.259, 0.259, 0.966, 51.971, 43.3)">
         <rect id="Rectangle_3" data-name="Rectangle 3" width="43.906" height="17.333" rx="2" transform="translate(0 0)" fill="#d8d8d8"/>
-        <g id="Group_2" data-name=
+        <g id="Group_2" data-name="Group 2" transform="translate(0.728 10.948)">
+          <rect id="Rectangle_4" data-name="Rectangle 4" width="2.537" height="2.537" rx="1" transform="translate(7.985 0)" fill="#4a4a4a"/>
+          <rect 
