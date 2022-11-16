@@ -134,4 +134,5 @@
           <rect id="Rectangle_67" data-name="Rectangle 67" width="2.537" height="2.537" rx="1" transform="translate(31.376 0)" fill="#4a4a4a"/>
           <rect id="Rectangle_68" data-name="Rectangle 68" width="2.537" height="2.537" rx="1" transform="translate(34.382 0)" fill="#4a4a4a"/>
           <rect id="Rectangle_69" data-name="Rectangle 69" width="2.537" height="2.537" rx="1" transform="translate(40.018 0)" fill="#4a4a4a"/>
-          <path id="Path_57" data-name="Path 57" d="M2.537,0V.561a.519.519,0,0,1-.519.519H.519A.519.519,0,0,1,0
+          <path id="Path_57" data-name="Path 57" d="M2.537,0V.561a.519.519,0,0,1-.519.519H.519A.519.519,0,0,1,0,.561V0Z" transform="translate(39.736 1.08) rotate(180)" fill="#4a4a4a"/>
+          <path id="Path_58" data-name="Path 58" d="M2.537,0V.561a.519.519,0,0,1-.519.519H.519A.519.519,0
